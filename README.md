@@ -1,5 +1,5 @@
 # Night_tour_problem
-Night tour problem in CPLEX. 
+This CPLEX program models the Night Tour Problem, where a knight moves on a 4×4 chessboard, following its standard L-shaped moves, while capturing specific pieces and minimizing the number of moves.
 
 What is CPLEX ? 
 
