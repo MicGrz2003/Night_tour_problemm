@@ -1,2 +1,2 @@
-# Night_tour_problemm
+# Night_tour_problem
 Night tour problem in CPLEX
